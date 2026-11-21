@@ -5,8 +5,8 @@ Aplicação web desenvolvida com **Next.js (App Router)**, **React**, **TypeScri
 ---
 
 ## 👥 Integrantes da Equipe
-- **Integrante 1**: [Nome do Colega]
-- **Integrante 2**: [Seu Nome]
+- **Integrante 1**: [Vitor Correia]
+- **Integrante 2**: [Mateus Carvalho]
 
 ---
 
